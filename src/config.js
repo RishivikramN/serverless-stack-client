@@ -1,4 +1,6 @@
 const config = {
+    STRIPE_KEY: "pk_test_51IlX9ASCAiiKWdNBlXYZuhw5lbPE2Y5DXB5tsqFFLLqXTnPg5g6qKNrYMY0n05UIjHSlU67aWYJArr3xtEZ51Yx300BJLjsLF0",
+    MAX_ATTACHMENT_SIZE: 5000000,
     s3: {
       REGION: "us-east-1",
       BUCKET: "notes-app-buckets",
